@@ -1,0 +1,32 @@
+[
+    {
+        "question" :"What dose the'NAN' value represent in javascript ?",
+        "options"  :["Not a number","Null value","Bolean value","undefined value"],
+        "answer"   :"Not a number"
+
+    },
+    {
+        "question" :"what dose HTML stand for ?",
+        "options"  :["HyperText Markup Language","hypertext Markupdown language"," Hightext markup language"],
+        "answer"   :"HyperText Markup Language"
+
+    },
+    {
+        "question" :"Which of the following is not a data type in javascript?",
+        "options"  :["Boolean","String","Number","none o the above"],
+        "answer"   :"none of the above"
+
+    },
+    {
+        "question" :"Which of the following is not a loop in javascript?",
+        "options"  :["while","do..while","next","for"],
+        "answer"   :"next"
+
+    },
+    {
+        "question" :"What does CSS stand for?",
+        "options"  :["Cascading style sheet"," Creative style sheet","computer style sheet"],
+        "answer"   :"Cascading style sheet"
+
+    }
+]
